@@ -1,5 +1,17 @@
 Professional **Automation Developer** and **Information Technology** student focused on bridging the gap between robust software engineering and efficient business process automation.
 
+I specialize in architecting automated workflows and developing scalable software solutions. Currently, I leverage the Rewst automation platform to streamline complex IT operations.
+
+My primary technical interest lies in AI-Human System Interaction, exploring how intelligent agents can seamlessly and securely interface with existing human workflows. This includes active exploration and implementation of Model Context Protocol (MCP) to create interoperable, context-aware AI tools.
+
+Languages & Tools:
+
+    Automation: API Integration, Workflow Orchestration, Process Optimization.
+
+    AI Implementation: MCP (Model Context Protocol), Agentic Workflows, Tool-use Engineering.
+
+    Software Development: Object-Oriented Programming, System Architecture, Data Structures.
+
 ---
 
 ### Education

@@ -23,7 +23,7 @@ I specialize in architecting automated workflows and developing scalable softwar
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rewst](https://img.shields.io/badge/Automation-Rewst-orange?style=for-the-badge)
+![Rewst](https://img.shields.io/badge/Automation-Rewst-blue?style=for-the-badge)
 
 *   **Automation:** API Integration, Workflow Orchestration, Process Optimization.
 *   **Software Development:** Object-Oriented Programming, System Architecture, Data Structures.

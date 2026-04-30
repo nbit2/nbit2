@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
 
-<!--
-**nbit2/nbit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional **Automation Developer** and **Information Technology** student focused on bridging the gap between robust software engineering and efficient business process automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+*   **Bachelor of Information Technology** | Queensland University of Technology (QUT)
+*   **Double Major:** Computer Science & Process Analytics and Automation
+
+### 🛠️ Professional Focus & Tech Stack
+I specialize in architecting automated workflows and developing scalable software solutions. Currently, I leverage the **Rewst** automation platform to streamline complex IT operations.
+
+**Languages & Tools:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rewst](https://img.shields.io/badge/Automation-Rewst-orange?style=for-the-badge)
+
+*   **Automation:** API Integration, Workflow Orchestration, Process Optimization.
+*   **Software Development:** Object-Oriented Programming, System Architecture, Data Structures.
+
+---
+
+### 📊 GitHub Analytics
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=transparent)
+
+---
+
+### 📫 Connect with Me
+*   **LinkedIn:** www.linkedin.com/in/nick-bur

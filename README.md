@@ -27,14 +27,3 @@ I specialize in architecting automated workflows and developing scalable softwar
 
 *   **Automation:** API Integration, Workflow Orchestration, Process Optimization.
 *   **Software Development:** Object-Oriented Programming, System Architecture, Data Structures.
-
----
-
-### GitHub Analytics
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbit2&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbit2&layout=compact&theme=transparent)
-
----
-
-### Connect with Me
-*   **LinkedIn:** www.linkedin.com/in/nick-bur

@@ -1,14 +1,12 @@
-# Hi, I'm Nick 👋
-
 Professional **Automation Developer** and **Information Technology** student focused on bridging the gap between robust software engineering and efficient business process automation.
 
 ---
 
-### 🎓 Education
+### Education
 *   **Bachelor of Information Technology** | Queensland University of Technology (QUT)
 *   **Double Major:** Computer Science & Process Analytics and Automation
 
-### 🛠️ Professional Focus & Tech Stack
+### Professional Focus & Tech Stack
 I specialize in architecting automated workflows and developing scalable software solutions. Currently, I leverage the **Rewst** automation platform to streamline complex IT operations.
 
 **Languages & Tools:**
@@ -22,11 +20,11 @@ I specialize in architecting automated workflows and developing scalable softwar
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbit2&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbit2&layout=compact&theme=transparent)
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 *   **LinkedIn:** www.linkedin.com/in/nick-bur

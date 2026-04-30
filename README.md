@@ -23,8 +23,8 @@ I specialize in architecting automated workflows and developing scalable softwar
 ---
 
 ### 📊 GitHub Analytics
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=transparent)
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbit2&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbit2&layout=compact&theme=transparent)
 
 ---
 
